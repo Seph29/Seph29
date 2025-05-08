@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Lumos G1<
+🔭 I’m currently working on Lumos G1
 <br>💬 <git@seph29.ovh>
 
 # 📊 GitHub Stats:
