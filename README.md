@@ -25,7 +25,13 @@
 - 💻 I enjoy both terminals and interfaces  
 - 🔍 Curious, independent, I explore everything  
 - 📡 Telecom works supervisor by profession  
-- 📬 Contact: <git@seph29.ovh>
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://keybase.io/seph29"><img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase"></a>
+  <a href="mailto:git@seph29.ovh"><img src="https://img.shields.io/badge/Email-git@seph29.ovh-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
